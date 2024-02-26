@@ -6,7 +6,7 @@ This repository contains the documentation for the research paper titled **Evolu
 
 ## Abstract
 
-The shift towards sustainable and electric mobility is at the forefront of the transportation industry. As electric vehicles (EVs) become more prevalent, it is essential to consider solutions for potential challenges, including breakdowns and emergencies. This research paper proposes a novel concept for a backup recovery vehicle specifically designed to assist and recover stranded EVs, ensuring a smoother and more reliable EV ecosystem.
+The shift towards sustainable and electric mobility is at the forefront of the transportation industry. As electric vehicles (EVs) become more prevalent, it is essential to consider solutions for potential challenges, including breakdowns and emergencies. This research paper proposes a novel concept for a backup recovery vehicle specifically designed to assist and recover stranded EVs, ensuring a smoother and more reliable EVs ecosystem.
 
 ## Proposal: Backup Recovery Vehicle for EVs
 
